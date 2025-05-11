@@ -1,6 +1,6 @@
 # Dokumentacja techniczna integracji z Google Drive
 
-**Nazwa projektu: ** `zse-pad-cloud-example`
+**Nazwa projektu:** `zse-pad-cloud-example`
 **Cel: ** Celem projektu jest stworzenie integracji aplikacji z usługą Google Drive.
 
 ## Wymagane biblioteki do działania projektu
